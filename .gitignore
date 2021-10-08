@@ -1,3 +1,4 @@
 data/
 *.tfrec
 *.jpeg
+saved_model/
