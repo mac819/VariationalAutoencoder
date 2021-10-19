@@ -2,3 +2,5 @@ data/
 *.tfrec
 *.jpeg
 saved_model/
+.DS_Store
+.*
